@@ -1,0 +1,3117 @@
+Terminal: [6]
+ Agents at terminal: 29
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+4;4;290;1915;402;402
+6;4;290;1915;402;402
+7;4;290;1915;402;402
+15;4;290;1915;402;402
+16;4;290;1915;402;402
+17;4;290;1915;402;402
+35;4;290;1915;402;402
+36;4;290;1915;402;402
+37;4;290;1915;402;402
+38;4;290;1915;402;402
+48;4;290;1915;402;402
+49;4;290;1915;402;402
+50;4;290;1915;402;402
+52;4;290;1915;402;402
+54;4;290;1915;402;402
+59;4;290;1915;402;402
+68;4;290;1915;402;402
+84;4;290;1915;402;402
+85;4;290;1915;402;402
+88;4;290;1915;402;402
+98;4;290;1915;402;402
+100;4;290;1915;402;402
+114;4;290;1915;402;402
+121;4;290;1915;402;402
+126;4;290;1915;402;402
+134;4;290;1915;402;402
+135;4;290;1915;402;402
+136;4;290;1915;402;402
+137;4;290;1915;402;402
+Terminal: [1]
+ Agents at terminal: 0
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+Terminal: [2]
+ Agents at terminal: 3
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+-19;4;290;1915;394;394
+-18;4;290;1915;394;394
+-17;4;290;1915;394;394
+Terminal: [5]
+ Agents at terminal: 1
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+-16;4;290;1915;395;395
+Terminal: [7]
+ Agents at terminal: 3
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+-15;4;290;1915;396;396
+-14;4;290;1915;396;396
+-13;4;290;1915;396;396
+Terminal: [8]
+ Agents at terminal: 13
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+-12;4;290;1915;397;397
+-11;4;290;1915;397;397
+-10;4;290;1915;397;397
+-9;4;290;1915;397;397
+-8;4;290;1915;397;397
+-7;4;290;1915;397;397
+-6;4;290;1915;397;397
+-5;4;290;1915;397;397
+-4;4;290;1915;397;397
+-3;4;290;1915;397;397
+-2;4;290;1915;397;397
+-1;4;290;1915;397;397
+112;4;290;1915;397;397
+Terminal: [9]
+ Agents at terminal: 28
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+1;4;290;1915;398;398
+3;4;290;1915;398;398
+9;4;290;1915;398;398
+12;4;290;1915;398;398
+13;4;290;1915;398;398
+14;4;290;1915;398;398
+18;4;290;1915;398;398
+23;4;290;1915;398;398
+40;4;290;1915;398;398
+41;4;290;1915;398;398
+42;4;290;1915;398;398
+43;4;290;1915;398;398
+44;4;290;1915;398;398
+46;4;290;1915;398;398
+51;4;290;1915;398;398
+53;4;290;1915;398;398
+64;4;290;1915;398;398
+69;4;290;1915;398;398
+76;4;290;1915;398;398
+83;4;290;1915;398;398
+99;4;290;1915;398;398
+101;4;290;1915;398;398
+113;4;290;1915;398;398
+124;4;290;1915;398;398
+125;4;290;1915;398;398
+130;4;290;1915;398;398
+131;4;290;1915;398;398
+138;4;290;1915;398;398
+Terminal: [3]
+ Agents at terminal: 27
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+21;4;290;1915;399;399
+32;4;290;1915;399;399
+33;4;290;1915;399;399
+45;4;290;1915;399;399
+65;4;290;1915;399;399
+66;4;290;1915;399;399
+67;4;290;1915;399;399
+74;4;290;1915;399;399
+78;4;290;1915;399;399
+79;4;290;1915;399;399
+80;4;290;1915;399;399
+81;4;290;1915;399;399
+87;4;290;1915;399;399
+93;4;290;1915;399;399
+94;4;290;1915;399;399
+95;4;290;1915;399;399
+102;4;290;1915;399;399
+104;4;290;1915;399;399
+105;4;290;1915;399;399
+107;4;290;1915;399;399
+108;4;290;1915;399;399
+109;4;290;1915;399;399
+111;4;290;1915;399;399
+115;4;290;1915;399;399
+122;4;290;1915;399;399
+132;4;290;1915;399;399
+140;4;290;1915;399;399
+Terminal: [4]
+ Agents at terminal: 20
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+2;4;290;1915;400;400
+8;4;290;1915;400;400
+10;4;290;1915;400;400
+11;4;290;1915;400;400
+19;4;290;1915;400;400
+20;4;290;1915;400;400
+22;4;290;1915;400;400
+30;4;290;1915;400;400
+31;4;290;1915;400;400
+34;4;290;1915;400;400
+47;4;290;1915;400;400
+72;4;290;1915;400;400
+73;4;290;1915;400;400
+75;4;290;1915;400;400
+82;4;290;1915;400;400
+86;4;290;1915;400;400
+90;4;290;1915;400;400
+103;4;290;1915;400;400
+110;4;290;1915;400;400
+123;4;290;1915;400;400
+Terminal: [10]
+ Agents at terminal: 6
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+39;4;290;1915;401;401
+55;4;290;1915;401;401
+61;4;290;1915;401;401
+89;4;290;1915;401;401
+97;4;290;1915;401;401
+133;4;290;1915;401;401
+Terminal: [11]
+ Agents at terminal: 0
+Agent ID; Capacity; starttime; endtime; start loc; end loc
+[Inter Terminal Busses]
+ Inter Terminal Busses: 11
+Agent ID;Capacity; starttime; endtime; start loc; end loc
+24;24;290;1915;-10;-10
+26;24;290;1915;-10;-10
+28;24;290;1915;-10;-10
+57;24;290;1915;-10;-10
+62;24;290;1915;-10;-10
+70;24;290;1915;-10;-10
+91;24;290;1915;-10;-10
+116;24;290;1915;-10;-10
+118;24;290;1915;-10;-10
+127;24;290;1915;-10;-10
+129;24;290;1915;-10;-10
+[Airside Busses]
+ Air side Busses: 12
+Agent ID; Capacity;starttime; endtime; start loc; end loc
+25;18;290;1915;-11;-11
+27;18;290;1915;-11;-11
+29;18;290;1915;-11;-11
+56;18;290;1915;-11;-11
+58;18;290;1915;-11;-11
+63;18;290;1915;-11;-11
+71;18;290;1915;-11;-11
+92;18;290;1915;-11;-11
+117;18;290;1915;-11;-11
+119;18;290;1915;-11;-11
+128;18;290;1915;-11;-11
+139;18;290;1915;-11;-11
+
+Total workers: 153
+
+ Number of passengers: 374
+Passenger ID;type ;volume ; starttime;start loc; start term; endtime; end loc;end term;
+1;1;2;320;383;0;435;259;0;
+2;0;2;335;307;6;450;177;3;
+3;0;2;335;307;6;455;60;0;
+4;0;2;335;307;6;455;60;0;
+5;0;2;335;307;6;455;60;0;
+6;0;2;340;165;6;630;148;6;
+7;0;2;345;303;6;470;121;9;
+8;0;2;345;208;4;650;192;4;
+9;0;2;345;208;4;690;15;2;
+10;0;2;345;208;4;725;125;9;
+11;0;2;350;310;6;450;134;9;
+12;0;2;350;310;6;505;126;9;
+13;1;2;350;310;6;505;126;9;
+14;0;2;350;310;6;650;192;4;
+15;0;2;350;310;6;810;148;6;
+16;0;2;358;358;0;435;174;3;
+17;0;2;360;112;9;450;175;3;
+18;0;2;360;112;9;540;195;4;
+19;1;2;360;266;0;540;125;9;
+20;0;2;360;112;9;635;140;6;
+21;0;2;365;114;9;435;89;8;
+22;0;2;365;211;4;540;195;4;
+23;0;2;365;211;4;575;74;8;
+24;0;2;365;114;9;590;98;8;
+26;0;2;365;211;4;760;35;5;
+27;1;2;365;211;4;1150;139;6;
+28;0;2;370;125;9;435;176;3;
+29;2;3;370;107;6;450;177;3;
+30;0;2;370;212;4;450;134;9;
+31;0;2;370;300;6;450;175;3;
+32;0;2;370;212;4;450;134;9;
+33;0;2;370;125;9;450;95;8;
+34;0;2;370;108;9;490;60;0;
+35;2;3;370;108;9;490;320;0;
+36;1;2;370;108;9;490;60;0;
+37;0;2;370;121;9;490;60;0;
+38;0;2;370;121;9;490;60;0;
+39;0;2;370;125;9;490;60;0;
+40;0;2;370;125;9;490;60;0;
+41;0;2;370;108;9;495;88;8;
+42;0;2;370;300;6;495;88;8;
+43;0;2;370;212;4;575;260;0;
+44;0;2;370;300;6;605;233;10;
+45;0;2;370;300;6;625;262;0;
+46;0;2;370;125;9;755;71;8;
+47;0;2;370;212;4;820;208;4;
+49;0;2;373;362;0;450;175;3;
+50;0;2;376;349;0;505;126;9;
+53;0;2;390;331;0;640;126;9;
+54;1;2;425;362;0;675;182;3;
+55;1;2;427;362;0;675;182;3;
+56;0;2;450;44;6;570;60;0;
+57;0;2;450;44;6;570;60;0;
+58;0;2;450;44;6;605;37;5;
+59;0;2;470;284;10;590;101;10;
+61;0;2;480;112;9;575;71;8;
+62;0;2;480;112;9;600;60;0;
+63;0;2;480;112;9;600;60;0;
+64;0;2;480;112;9;795;98;8;
+65;0;2;480;112;9;820;153;6;
+66;1;2;485;375;0;565;236;10;
+67;0;2;488;371;0;635;197;4;
+68;1;2;490;204;4;575;264;0;
+69;0;2;490;204;4;575;71;8;
+70;0;2;490;204;4;610;89;8;
+71;0;2;490;204;4;610;60;0;
+72;0;2;490;204;4;610;60;0;
+73;0;2;490;204;4;610;60;0;
+74;0;2;490;204;4;610;60;0;
+75;1;2;490;204;4;620;88;8;
+77;0;2;495;160;3;575;176;3;
+78;0;2;495;160;3;595;16;2;
+79;0;2;505;298;6;585;177;3;
+80;1;2;505;298;6;585;177;3;
+81;0;2;505;305;6;625;60;0;
+82;0;2;505;170;3;630;130;9;
+83;1;2;505;170;3;640;52;7;
+85;1;2;511;350;0;635;140;6;
+88;0;2;515;6;2;585;183;3;
+89;0;2;515;6;2;585;183;3;
+90;0;2;515;12;2;615;92;8;
+91;0;2;515;123;9;615;118;10;
+92;1;2;515;304;6;625;253;0;
+93;1;2;515;304;6;625;262;0;
+94;1;2;515;114;9;625;262;0;
+96;0;2;515;6;2;635;140;6;
+97;0;2;515;304;6;635;60;0;
+98;1;2;515;123;9;635;60;0;
+99;3;2;515;308;6;635;60;0;
+100;0;2;515;114;9;635;60;0;
+102;1;2;515;308;6;640;52;7;
+103;0;2;515;331;0;640;126;9;
+104;0;2;515;114;9;645;59;7;
+105;0;2;515;308;6;755;178;3;
+106;0;2;515;308;6;820;140;6;
+107;0;2;515;12;2;820;140;6;
+108;3;2;515;308;6;980;253;0;
+109;0;2;518;347;0;655;145;6;
+110;0;2;520;168;3;610;162;3;
+111;0;2;520;259;0;635;140;6;
+112;0;2;520;259;0;635;140;6;
+113;0;2;525;32;5;635;197;4;
+114;0;2;530;290;10;630;130;9;
+115;0;2;530;290;10;630;130;9;
+116;0;2;530;369;0;635;197;4;
+117;0;2;530;365;0;650;190;4;
+118;5;2;530;164;3;650;60;0;
+119;0;2;533;361;0;650;192;4;
+120;0;2;534;338;0;630;148;6;
+122;1;2;542;361;0;650;192;4;
+123;0;2;545;200;4;760;173;6;
+124;1;2;547;348;0;630;133;9;
+125;0;2;550;270;10;755;178;3;
+126;0;2;551;344;0;725;125;9;
+128;1;2;555;272;10;760;173;6;
+129;0;2;555;242;10;760;173;6;
+130;0;2;560;291;10;630;130;9;
+131;0;2;560;231;10;630;128;9;
+132;0;2;560;291;10;640;125;9;
+133;0;2;560;29;5;680;60;0;
+134;0;2;560;231;10;760;173;6;
+135;0;2;565;65;0;675;182;3;
+136;0;2;570;180;3;655;145;6;
+137;0;2;570;253;0;810;59;7;
+138;2;3;573;60;0;630;130;9;
+139;2;3;576;340;0;630;130;9;
+141;0;2;588;349;0;810;154;6;
+142;1;2;598;344;0;810;118;9;
+143;0;2;606;344;0;735;111;9;
+144;0;2;607;344;0;810;118;9;
+145;0;2;635;30;5;725;125;9;
+146;1;2;643;370;0;755;193;4;
+147;0;2;650;344;0;810;118;9;
+148;1;2;657;384;0;820;128;9;
+149;0;2;658;60;0;760;70;8;
+150;1;2;660;209;4;1895;191;4;
+151;1;2;660;121;9;755;92;8;
+152;1;2;660;121;9;755;92;8;
+153;0;2;660;204;4;755;92;8;
+154;0;2;660;204;4;755;92;8;
+155;0;2;660;165;6;775;95;8;
+156;1;2;660;209;4;780;60;0;
+157;1;2;660;165;6;950;32;5;
+158;4;2;660;165;6;960;87;8;
+159;4;2;660;165;6;960;87;8;
+160;4;2;660;165;6;960;87;8;
+161;4;2;660;165;6;960;87;8;
+162;4;2;660;165;6;960;87;8;
+163;4;2;660;165;6;960;87;8;
+164;4;2;660;165;6;960;87;8;
+165;4;2;660;165;6;960;87;8;
+166;1;2;663;365;0;760;70;8;
+167;0;2;670;366;0;755;191;4;
+168;0;2;674;350;0;820;153;6;
+169;1;2;675;118;9;755;92;8;
+170;0;2;675;305;6;795;60;0;
+171;0;2;675;118;9;795;60;0;
+172;1;2;680;310;6;925;73;8;
+173;0;2;685;253;0;770;180;3;
+174;0;2;685;253;0;790;86;8;
+175;0;2;685;253;0;820;140;6;
+176;0;2;685;253;0;820;140;6;
+177;0;2;685;253;0;820;140;6;
+178;0;2;685;253;0;820;140;6;
+179;1;2;685;253;0;925;92;8;
+180;0;2;688;351;0;810;150;6;
+181;1;2;690;369;0;755;193;4;
+182;1;2;690;42;6;775;229;10;
+183;0;2;690;42;6;780;36;5;
+184;0;2;690;42;6;785;175;3;
+185;0;2;690;120;6;790;86;8;
+186;1;2;690;120;6;810;60;0;
+187;0;2;690;268;0;830;52;7;
+188;2;3;690;307;6;1015;82;8;
+189;0;2;691;370;0;760;70;8;
+190;0;2;695;162;3;755;191;4;
+191;0;2;695;212;4;775;190;4;
+192;1;2;695;212;4;785;175;3;
+193;0;2;695;211;4;810;133;9;
+194;0;2;695;211;4;810;16;2;
+195;0;2;695;211;4;810;154;6;
+196;0;2;695;211;4;810;133;9;
+197;0;2;695;211;4;810;16;2;
+198;0;2;695;211;4;810;16;2;
+199;0;2;695;211;4;815;249;0;
+200;0;2;695;211;4;815;60;0;
+201;0;2;695;211;4;815;249;0;
+202;0;2;695;212;4;815;60;0;
+203;1;2;695;162;3;815;384;0;
+204;0;2;695;211;4;815;60;0;
+205;0;2;695;162;3;820;128;9;
+206;0;2;695;162;3;820;128;9;
+207;0;2;695;211;4;830;124;9;
+208;1;2;695;212;4;945;178;3;
+209;0;2;695;212;4;980;204;4;
+210;0;2;698;350;0;810;154;6;
+211;0;2;700;200;4;805;90;6;
+212;0;2;700;200;4;810;133;9;
+213;1;2;700;110;6;820;128;9;
+214;1;2;700;110;6;820;60;0;
+215;0;2;700;103;6;820;60;0;
+216;0;2;700;103;6;820;60;0;
+217;0;2;700;103;6;820;128;9;
+218;0;2;700;74;8;830;248;0;
+219;0;2;701;346;0;800;141;6;
+221;0;2;710;104;6;810;133;9;
+222;1;2;710;174;3;975;197;4;
+223;1;2;715;159;3;835;60;0;
+224;1;2;720;280;10;945;89;8;
+225;0;2;721;339;0;785;175;3;
+228;1;2;735;170;3;810;118;9;
+229;0;2;735;105;6;820;128;9;
+230;1;2;735;170;3;820;255;0;
+231;1;2;735;105;6;855;60;0;
+232;0;2;738;339;0;820;211;4;
+233;0;2;740;31;5;810;118;9;
+234;0;2;740;296;10;810;118;9;
+235;0;2;740;296;10;810;118;9;
+236;0;2;740;170;3;815;249;0;
+237;0;2;740;180;3;815;249;0;
+238;0;2;740;180;3;815;249;0;
+239;1;2;740;180;3;860;60;0;
+240;0;2;742;339;0;820;211;4;
+241;1;2;744;345;0;820;106;9;
+242;0;2;750;182;3;810;125;9;
+243;0;2;750;348;0;810;154;6;
+244;1;2;750;340;0;810;125;9;
+245;2;3;750;158;6;870;60;0;
+246;0;2;750;182;3;925;92;8;
+247;0;2;750;112;9;1100;98;8;
+248;0;2;751;348;0;805;121;9;
+249;0;2;753;366;0;810;125;9;
+250;2;3;756;367;0;975;197;4;
+251;2;3;758;367;0;820;192;4;
+252;2;3;774;346;0;870;112;9;
+255;1;2;790;79;8;970;152;6;
+256;2;3;791;340;0;950;121;9;
+257;2;3;820;159;3;940;60;0;
+258;0;2;820;226;10;945;178;3;
+259;1;2;820;226;10;945;178;3;
+260;0;2;820;226;10;945;178;3;
+261;0;2;820;226;10;945;178;3;
+262;1;2;820;226;10;1075;175;3;
+263;0;2;825;111;9;925;176;3;
+264;0;2;825;111;9;945;60;0;
+265;0;2;825;111;9;945;60;0;
+266;0;2;825;111;9;945;60;0;
+267;0;2;825;111;9;945;60;0;
+268;0;2;825;111;9;945;60;0;
+269;1;2;825;111;9;1105;87;8;
+270;1;2;826;372;0;980;204;4;
+271;1;2;826;339;0;1120;229;10;
+272;0;2;830;207;4;950;60;0;
+273;1;2;830;207;4;955;177;3;
+274;0;2;830;207;4;970;111;9;
+275;2;3;835;312;6;955;60;0;
+276;1;2;845;180;3;965;175;3;
+277;0;2;845;170;3;965;60;0;
+278;2;3;845;170;3;965;60;0;
+279;0;2;845;170;3;1150;139;6;
+280;2;3;850;302;6;945;174;3;
+281;0;2;850;302;6;945;174;3;
+282;0;2;850;302;6;970;60;0;
+283;0;2;850;302;6;970;60;0;
+284;2;3;852;353;0;990;133;9;
+285;0;2;854;60;0;945;178;3;
+286;0;2;855;212;4;935;229;10;
+287;0;2;860;114;9;980;60;0;
+288;0;2;870;174;3;990;60;0;
+289;0;2;870;174;3;990;60;0;
+290;1;2;870;174;3;1070;16;2;
+291;2;3;875;182;3;985;180;3;
+292;0;2;875;107;6;995;60;0;
+293;1;2;875;107;6;995;60;0;
+294;1;2;875;288;10;995;60;0;
+296;2;3;877;350;0;975;125;9;
+297;0;2;880;200;4;985;195;4;
+298;1;2;885;369;0;980;253;0;
+299;0;2;890;71;8;995;155;6;
+300;0;2;890;166;3;1010;60;0;
+301;1;2;893;371;0;980;253;0;
+302;0;2;900;178;3;960;87;8;
+303;1;2;900;295;10;1135;88;8;
+304;1;2;909;362;0;1000;178;3;
+305;0;2;910;278;10;975;99;8;
+306;0;2;910;201;4;995;151;6;
+307;0;2;910;105;6;995;151;6;
+308;0;2;910;351;0;1000;122;9;
+309;0;2;910;159;3;1000;122;9;
+310;0;2;910;70;8;1030;60;0;
+311;0;2;910;201;4;1030;60;0;
+312;0;2;910;201;4;1030;60;0;
+313;0;2;910;201;4;1030;60;0;
+317;0;2;922;362;0;1000;178;3;
+318;0;2;940;110;6;1060;60;0;
+319;1;2;940;110;6;1060;60;0;
+320;3;2;940;110;6;1060;60;0;
+321;1;2;940;110;6;1060;60;0;
+322;0;2;940;110;6;1060;60;0;
+323;0;2;940;110;6;1060;60;0;
+324;2;3;944;362;0;1000;178;3;
+325;2;3;952;347;0;1150;139;6;
+327;1;2;990;164;3;1095;238;10;
+328;0;2;990;164;3;1110;60;0;
+329;1;2;990;164;3;1155;199;4;
+330;2;3;999;370;0;1110;190;4;
+331;0;2;1005;111;9;1100;86;8;
+332;0;2;1005;111;9;1125;176;3;
+333;1;2;1020;207;4;1110;99;8;
+334;1;2;1020;159;3;1140;60;0;
+335;0;2;1020;159;3;1140;60;0;
+336;0;2;1020;159;3;1140;60;0;
+337;3;2;1020;207;4;1140;60;0;
+338;1;2;1020;207;4;1140;60;0;
+339;2;3;1020;207;4;1140;60;0;
+340;0;2;1035;303;6;1110;179;3;
+341;0;2;1035;170;3;1155;60;0;
+342;0;2;1035;303;6;1155;60;0;
+343;0;2;1045;201;4;1150;129;9;
+344;1;2;1045;284;10;1165;60;0;
+345;1;2;1045;201;4;1165;60;0;
+346;0;2;1045;284;10;1205;175;3;
+348;0;2;1050;277;10;1140;123;9;
+349;2;3;1050;158;6;1170;60;0;
+350;2;3;1050;158;6;1170;60;0;
+351;1;2;1050;211;4;1235;177;3;
+353;1;2;1070;363;0;1120;162;3;
+354;0;2;1070;168;3;1125;141;6;
+355;0;2;1070;168;3;1130;89;8;
+356;0;2;1070;168;3;1130;89;8;
+357;0;2;1070;168;3;1130;89;8;
+358;1;2;1070;168;3;1190;60;0;
+360;1;2;1085;202;4;1155;199;4;
+361;1;2;1085;202;4;1205;60;0;
+362;1;2;1085;166;3;1205;60;0;
+363;2;3;1085;166;3;1205;60;0;
+364;0;2;1090;31;5;1210;60;0;
+365;1;2;1090;117;6;1210;60;0;
+366;0;2;1094;358;0;1205;175;3;
+367;3;2;1100;121;9;1220;60;0;
+368;0;2;1100;121;9;1220;60;0;
+369;2;3;1120;159;3;1240;60;0;
+370;1;2;1120;205;4;1240;60;0;
+371;0;2;1120;205;4;1240;60;0;
+372;0;2;1120;120;6;1240;60;0;
+373;4;2;1145;261;0;1265;60;0;
+374;4;2;1145;261;0;1265;60;0;
+375;1;2;1150;178;3;1270;60;0;
+378;1;2;1160;201;4;1280;60;0;
+379;0;2;1175;118;9;1295;60;0;
+380;1;2;1175;118;9;1295;60;0;
+381;0;2;1175;118;9;1295;60;0;
+382;0;2;1175;118;9;1295;60;0;
+383;1;2;1175;118;9;1295;60;0;
+384;0;2;1175;131;9;1400;130;9;
+385;1;2;1180;160;3;1270;122;9;
+386;1;2;1180;160;3;1300;60;0;
+387;0;2;1180;160;3;1300;60;0;
+388;1;2;1180;160;3;1300;60;0;
+389;0;2;1180;160;3;1400;155;6;
+390;0;2;1180;160;3;1400;155;6;
+391;0;2;1180;160;3;1400;132;9;
+392;0;2;1205;202;4;1325;60;0;
+393;0;2;1205;202;4;1325;60;0;
+394;0;2;1210;106;9;1400;155;6;
+395;1;2;1210;106;9;1405;129;9;
+398;1;2;1241;340;0;1415;126;9;
+400;0;2;1260;159;3;1380;60;0;
+401;0;2;1285;116;9;1405;60;0;
+402;0;2;1330;174;3;1400;60;0;
+403;2;3;1340;123;9;1460;60;0;
+404;0;2;1347;348;0;1400;142;6;
+405;1;2;1350;205;4;1470;60;0;
+406;1;2;1405;160;3;1525;60;0;
+Pasenger : 1
+ Start: 383 End: 259
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+0;383;170;3;;
+1;170;170;3;;1
+2;170;259;; airsidebus;
+Pasenger : 2
+ Start: 307 End: 177
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+3;307;415;6;;
+4;415;412;; terminalbus;
+5;412;177;3;;
+6;177;177;3;;1
+Pasenger : 3
+ Start: 307 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+7;307;60;6;;
+Pasenger : 4
+ Start: 307 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+8;307;60;6;;
+Pasenger : 5
+ Start: 307 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+9;307;60;6;;
+Pasenger : 6
+ Start: 165 End: 148
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+10;165;148;6;;
+11;148;148;6;;1
+Pasenger : 7
+ Start: 303 End: 121
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+12;303;415;6;;
+13;415;411;; terminalbus;
+14;411;121;9;;
+15;121;121;9;;1
+Pasenger : 8
+ Start: 208 End: 192
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+16;208;192;4;;
+17;192;192;4;;1
+Pasenger : 9
+ Start: 208 End: 15
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+18;208;413;4;;
+19;413;407;; terminalbus;
+20;407;15;2;;
+21;15;15;2;;1
+Pasenger : 10
+ Start: 208 End: 125
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+22;208;413;4;;
+23;413;411;; terminalbus;
+24;411;125;9;;
+25;125;125;9;;1
+Pasenger : 11
+ Start: 310 End: 134
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+26;310;415;6;;
+27;415;411;; terminalbus;
+28;411;134;9;;
+29;134;134;9;;1
+Pasenger : 12
+ Start: 310 End: 126
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+30;310;415;6;;
+31;415;411;; terminalbus;
+32;411;126;9;;
+33;126;126;9;;1
+Pasenger : 13
+ Start: 310 End: 126
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+34;310;415;6;;
+35;415;411;; terminalbus;
+36;411;126;9;;
+37;126;126;9;;1
+Pasenger : 14
+ Start: 310 End: 192
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+38;310;415;6;;
+39;415;413;; terminalbus;
+40;413;192;4;;
+41;192;192;4;;1
+Pasenger : 15
+ Start: 310 End: 148
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+42;310;148;6;;
+43;148;148;6;;1
+Pasenger : 16
+ Start: 358 End: 174
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+44;358;174;3;;
+45;174;174;3;;1
+Pasenger : 17
+ Start: 112 End: 175
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+46;112;411;9;;
+47;411;412;; terminalbus;
+48;412;175;3;;
+49;175;175;3;;1
+Pasenger : 18
+ Start: 112 End: 195
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+50;112;411;9;;
+51;411;413;; terminalbus;
+52;413;195;4;;
+53;195;195;4;;1
+Pasenger : 19
+ Start: 266 End: 125
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+54;266;125;9;;
+55;125;125;9;;1
+Pasenger : 20
+ Start: 112 End: 140
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+56;112;411;9;;
+57;411;415;; terminalbus;
+58;415;140;6;;
+59;140;140;6;;1
+Pasenger : 21
+ Start: 114 End: 89
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+60;114;411;9;;
+61;411;410;; terminalbus;
+62;410;89;8;;
+63;89;89;8;;1
+Pasenger : 22
+ Start: 211 End: 195
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+64;211;195;4;;
+65;195;195;4;;1
+Pasenger : 23
+ Start: 211 End: 74
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+66;211;187;4;;
+67;187;187;4;;1
+68;187;74;; airsidebus;
+Pasenger : 24
+ Start: 114 End: 98
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+69;114;411;9;;
+70;411;410;; terminalbus;
+71;410;98;8;;
+72;98;98;8;;1
+Pasenger : 26
+ Start: 211 End: 35
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+73;211;413;4;;
+74;413;410;; terminalbus;
+75;410;97;8;;
+76;97;97;8;;1
+77;97;35;; airsidebus;
+Pasenger : 27
+ Start: 211 End: 139
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+78;211;413;4;;
+79;413;415;; terminalbus;
+80;415;139;6;;
+81;139;139;6;;1
+Pasenger : 28
+ Start: 125 End: 176
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+82;125;411;9;;
+83;411;412;; terminalbus;
+84;412;176;3;;
+85;176;176;3;;1
+Pasenger : 29
+ Start: 107 End: 177
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+86;107;415;6;;
+87;415;412;; terminalbus;
+88;412;177;3;;
+89;177;177;3;;1
+Pasenger : 30
+ Start: 212 End: 134
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+90;212;413;4;;
+91;413;411;; terminalbus;
+92;411;134;9;;
+93;134;134;9;;1
+Pasenger : 31
+ Start: 300 End: 175
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+94;300;415;6;;
+95;415;412;; terminalbus;
+96;412;175;3;;
+97;175;175;3;;1
+Pasenger : 32
+ Start: 212 End: 134
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+98;212;413;4;;
+99;413;411;; terminalbus;
+100;411;134;9;;
+101;134;134;9;;1
+Pasenger : 33
+ Start: 125 End: 95
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+102;125;411;9;;
+103;411;410;; terminalbus;
+104;410;95;8;;
+105;95;95;8;;1
+Pasenger : 34
+ Start: 108 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+106;108;60;9;;
+Pasenger : 35
+ Start: 108 End: 320
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+107;108;320;9;;
+Pasenger : 36
+ Start: 108 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+108;108;60;9;;
+Pasenger : 37
+ Start: 121 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+109;121;60;9;;
+Pasenger : 38
+ Start: 121 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+110;121;60;9;;
+Pasenger : 39
+ Start: 125 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+111;125;60;9;;
+Pasenger : 40
+ Start: 125 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+112;125;60;9;;
+Pasenger : 41
+ Start: 108 End: 88
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+113;108;411;9;;
+114;411;410;; terminalbus;
+115;410;88;8;;
+116;88;88;8;;1
+Pasenger : 42
+ Start: 300 End: 88
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+117;300;415;6;;
+118;415;410;; terminalbus;
+119;410;88;8;;
+120;88;88;8;;1
+Pasenger : 43
+ Start: 212 End: 260
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+121;212;413;4;;
+122;413;410;; terminalbus;
+123;410;88;8;;
+124;88;88;8;;1
+125;88;260;; airsidebus;
+Pasenger : 44
+ Start: 300 End: 233
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+126;300;415;6;;
+127;415;414;; terminalbus;
+128;414;233;10;;
+129;233;233;10;;1
+Pasenger : 45
+ Start: 300 End: 262
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+130;300;415;6;;
+131;415;413;; terminalbus;
+132;413;196;4;;
+133;196;196;4;;1
+134;196;262;; airsidebus;
+Pasenger : 46
+ Start: 125 End: 71
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+135;125;411;9;;
+136;411;413;; terminalbus;
+137;413;187;4;;
+138;187;187;4;;1
+139;187;71;; airsidebus;
+Pasenger : 47
+ Start: 212 End: 208
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+140;212;208;4;;
+141;208;208;4;;1
+Pasenger : 49
+ Start: 362 End: 175
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+142;362;175;3;;
+143;175;175;3;;1
+Pasenger : 50
+ Start: 349 End: 126
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+144;349;126;9;;
+145;126;126;9;;1
+Pasenger : 53
+ Start: 331 End: 126
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+148;331;126;9;;
+149;126;126;9;;1
+Pasenger : 54
+ Start: 362 End: 182
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+150;362;182;3;;
+151;182;182;3;;1
+Pasenger : 55
+ Start: 362 End: 182
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+152;362;182;3;;
+153;182;182;3;;1
+Pasenger : 56
+ Start: 44 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+154;44;64;; airsidebus;
+155;64;60;9;;
+Pasenger : 57
+ Start: 44 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+156;44;64;; airsidebus;
+157;64;60;9;;
+Pasenger : 58
+ Start: 44 End: 37
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+158;44;64;; airsidebus;
+159;64;411;9;;
+160;411;408;; terminalbus;
+161;408;37;5;;
+162;37;37;5;;1
+Pasenger : 59
+ Start: 284 End: 101
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+163;284;414;10;;
+164;414;410;; terminalbus;
+165;410;101;8;;
+166;101;101;8;;1
+Pasenger : 61
+ Start: 112 End: 71
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+167;112;411;9;;
+168;411;412;; terminalbus;
+169;412;173;3;;
+170;173;173;3;;1
+171;173;71;; airsidebus;
+Pasenger : 62
+ Start: 112 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+172;112;60;9;;
+Pasenger : 63
+ Start: 112 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+173;112;60;9;;
+Pasenger : 64
+ Start: 112 End: 98
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+174;112;411;9;;
+175;411;410;; terminalbus;
+176;410;98;8;;
+177;98;98;8;;1
+Pasenger : 65
+ Start: 112 End: 153
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+178;112;411;9;;
+179;411;415;; terminalbus;
+180;415;153;6;;
+181;153;153;6;;1
+Pasenger : 66
+ Start: 375 End: 236
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+182;375;236;10;;
+183;236;236;10;;1
+Pasenger : 67
+ Start: 371 End: 197
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+184;371;197;4;;
+185;197;197;4;;1
+Pasenger : 68
+ Start: 204 End: 264
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+186;204;413;4;;
+187;413;412;; terminalbus;
+188;412;184;3;;
+189;184;184;3;;1
+190;184;264;; airsidebus;
+Pasenger : 69
+ Start: 204 End: 71
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+191;204;413;4;;
+192;413;412;; terminalbus;
+193;412;173;3;;
+194;173;173;3;;1
+195;173;71;; airsidebus;
+Pasenger : 70
+ Start: 204 End: 89
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+196;204;413;4;;
+197;413;410;; terminalbus;
+198;410;89;8;;
+199;89;89;8;;1
+Pasenger : 71
+ Start: 204 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+200;204;60;4;;
+Pasenger : 72
+ Start: 204 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+201;204;60;4;;
+Pasenger : 73
+ Start: 204 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+202;204;60;4;;
+Pasenger : 74
+ Start: 204 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+203;204;60;4;;
+Pasenger : 75
+ Start: 204 End: 88
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+204;204;413;4;;
+205;413;410;; terminalbus;
+206;410;88;8;;
+207;88;88;8;;1
+Pasenger : 77
+ Start: 160 End: 176
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+210;160;176;3;;
+211;176;176;3;;1
+Pasenger : 78
+ Start: 160 End: 16
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+212;160;412;3;;
+213;412;407;; terminalbus;
+214;407;16;2;;
+215;16;16;2;;1
+Pasenger : 79
+ Start: 298 End: 177
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+216;298;415;6;;
+217;415;412;; terminalbus;
+218;412;177;3;;
+219;177;177;3;;1
+Pasenger : 80
+ Start: 298 End: 177
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+220;298;415;6;;
+221;415;412;; terminalbus;
+222;412;177;3;;
+223;177;177;3;;1
+Pasenger : 81
+ Start: 305 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+224;305;198;; airsidebus;
+225;198;60;4;;
+Pasenger : 82
+ Start: 170 End: 130
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+226;170;412;3;;
+227;412;411;; terminalbus;
+228;411;130;9;;
+229;130;130;9;;1
+Pasenger : 83
+ Start: 170 End: 52
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+230;170;412;3;;
+231;412;409;; terminalbus;
+232;409;52;7;;
+233;52;52;7;;1
+Pasenger : 85
+ Start: 350 End: 140
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+234;350;140;6;;
+235;140;140;6;;1
+Pasenger : 88
+ Start: 6 End: 183
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+248;6;64;; airsidebus;
+249;64;411;9;;
+250;411;412;; terminalbus;
+251;412;183;3;;
+252;183;183;3;;1
+Pasenger : 89
+ Start: 6 End: 183
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+253;6;64;; airsidebus;
+254;64;411;9;;
+255;411;412;; terminalbus;
+256;412;183;3;;
+257;183;183;3;;1
+Pasenger : 90
+ Start: 12 End: 92
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+258;12;64;; airsidebus;
+259;64;411;9;;
+260;411;410;; terminalbus;
+261;410;92;8;;
+262;92;92;8;;1
+Pasenger : 91
+ Start: 123 End: 118
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+263;123;118;9;;
+264;118;118;9;;1
+Pasenger : 92
+ Start: 304 End: 253
+Segments: 6
+ID;Start location; End location; Terminal; Bus;Embarkment
+265;304;64;; airsidebus;
+266;64;411;9;;
+267;411;412;; terminalbus;
+268;412;172;3;;
+269;172;172;3;;1
+270;172;253;; airsidebus;
+Pasenger : 93
+ Start: 304 End: 262
+Segments: 6
+ID;Start location; End location; Terminal; Bus;Embarkment
+271;304;64;; airsidebus;
+272;64;411;9;;
+273;411;413;; terminalbus;
+274;413;196;4;;
+275;196;196;4;;1
+276;196;262;; airsidebus;
+Pasenger : 94
+ Start: 114 End: 262
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+277;114;411;9;;
+278;411;413;; terminalbus;
+279;413;196;4;;
+280;196;196;4;;1
+281;196;262;; airsidebus;
+Pasenger : 96
+ Start: 6 End: 140
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+282;6;64;; airsidebus;
+283;64;411;9;;
+284;411;415;; terminalbus;
+285;415;140;6;;
+286;140;140;6;;1
+Pasenger : 97
+ Start: 304 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+287;304;64;; airsidebus;
+288;64;60;9;;
+Pasenger : 98
+ Start: 123 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+289;123;60;9;;
+Pasenger : 99
+ Start: 308 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+290;308;60;6;;
+Pasenger : 100
+ Start: 114 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+291;114;60;9;;
+Pasenger : 102
+ Start: 308 End: 52
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+292;308;415;6;;
+293;415;409;; terminalbus;
+294;409;52;7;;
+295;52;52;7;;1
+Pasenger : 103
+ Start: 331 End: 126
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+296;331;126;9;;
+297;126;126;9;;1
+Pasenger : 104
+ Start: 114 End: 59
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+298;114;411;9;;
+299;411;409;; terminalbus;
+300;409;59;7;;
+301;59;59;7;;1
+Pasenger : 105
+ Start: 308 End: 178
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+302;308;415;6;;
+303;415;412;; terminalbus;
+304;412;178;3;;
+305;178;178;3;;1
+Pasenger : 106
+ Start: 308 End: 140
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+306;308;140;6;;
+307;140;140;6;;1
+Pasenger : 107
+ Start: 12 End: 140
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+308;12;64;; airsidebus;
+309;64;411;9;;
+310;411;415;; terminalbus;
+311;415;140;6;;
+312;140;140;6;;1
+Pasenger : 108
+ Start: 308 End: 253
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+313;308;415;6;;
+314;415;413;; terminalbus;
+315;413;188;4;;
+316;188;188;4;;1
+317;188;253;; airsidebus;
+Pasenger : 109
+ Start: 347 End: 145
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+318;347;145;6;;
+319;145;145;6;;1
+Pasenger : 110
+ Start: 168 End: 162
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+320;168;162;3;;
+321;162;162;3;;1
+Pasenger : 111
+ Start: 259 End: 140
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+322;259;27;; airsidebus;
+323;27;412;3;;
+324;412;415;; terminalbus;
+325;415;140;6;;
+326;140;140;6;;1
+Pasenger : 112
+ Start: 259 End: 140
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+327;259;27;; airsidebus;
+328;27;412;3;;
+329;412;415;; terminalbus;
+330;415;140;6;;
+331;140;140;6;;1
+Pasenger : 113
+ Start: 32 End: 197
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+332;32;27;; airsidebus;
+333;27;412;3;;
+334;412;413;; terminalbus;
+335;413;197;4;;
+336;197;197;4;;1
+Pasenger : 114
+ Start: 290 End: 130
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+337;290;414;10;;
+338;414;411;; terminalbus;
+339;411;130;9;;
+340;130;130;9;;1
+Pasenger : 115
+ Start: 290 End: 130
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+341;290;414;10;;
+342;414;411;; terminalbus;
+343;411;130;9;;
+344;130;130;9;;1
+Pasenger : 116
+ Start: 369 End: 197
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+345;369;197;4;;
+346;197;197;4;;1
+Pasenger : 117
+ Start: 365 End: 190
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+347;365;190;4;;
+348;190;190;4;;1
+Pasenger : 118
+ Start: 164 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+349;164;60;3;;
+Pasenger : 119
+ Start: 361 End: 192
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+350;361;192;4;;
+351;192;192;4;;1
+Pasenger : 120
+ Start: 338 End: 148
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+352;338;148;6;;
+353;148;148;6;;1
+Pasenger : 122
+ Start: 361 End: 192
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+354;361;192;4;;
+355;192;192;4;;1
+Pasenger : 123
+ Start: 200 End: 173
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+356;200;413;4;;
+357;413;412;; terminalbus;
+358;412;173;3;;
+359;173;173;3;;1
+Pasenger : 124
+ Start: 348 End: 133
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+360;348;133;9;;
+361;133;133;9;;1
+Pasenger : 125
+ Start: 270 End: 178
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+362;270;64;; airsidebus;
+363;64;411;9;;
+364;411;412;; terminalbus;
+365;412;178;3;;
+366;178;178;3;;1
+Pasenger : 126
+ Start: 344 End: 125
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+367;344;125;9;;
+368;125;125;9;;1
+Pasenger : 128
+ Start: 272 End: 173
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+371;272;64;; airsidebus;
+372;64;411;9;;
+373;411;412;; terminalbus;
+374;412;173;3;;
+375;173;173;3;;1
+Pasenger : 129
+ Start: 242 End: 173
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+376;242;64;; airsidebus;
+377;64;411;9;;
+378;411;412;; terminalbus;
+379;412;173;3;;
+380;173;173;3;;1
+Pasenger : 130
+ Start: 291 End: 130
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+381;291;414;10;;
+382;414;411;; terminalbus;
+383;411;130;9;;
+384;130;130;9;;1
+Pasenger : 131
+ Start: 231 End: 128
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+385;231;64;; airsidebus;
+386;64;128;9;;
+387;128;128;9;;1
+Pasenger : 132
+ Start: 291 End: 125
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+388;291;414;10;;
+389;414;411;; terminalbus;
+390;411;125;9;;
+391;125;125;9;;1
+Pasenger : 133
+ Start: 29 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+392;29;27;; airsidebus;
+393;27;60;3;;
+Pasenger : 134
+ Start: 231 End: 173
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+394;231;64;; airsidebus;
+395;64;411;9;;
+396;411;412;; terminalbus;
+397;412;173;3;;
+398;173;173;3;;1
+Pasenger : 135
+ Start: 65 End: 182
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+399;65;182;3;;
+400;182;182;3;;1
+Pasenger : 136
+ Start: 180 End: 145
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+401;180;412;3;;
+402;412;415;; terminalbus;
+403;415;145;6;;
+404;145;145;6;;1
+Pasenger : 137
+ Start: 253 End: 59
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+405;253;156;; airsidebus;
+406;156;412;3;;
+407;412;409;; terminalbus;
+408;409;59;7;;
+409;59;59;7;;1
+Pasenger : 138
+ Start: 60 End: 130
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+410;60;130;9;;
+411;130;130;9;;1
+Pasenger : 139
+ Start: 340 End: 130
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+412;340;130;9;;
+413;130;130;9;;1
+Pasenger : 141
+ Start: 349 End: 154
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+417;349;154;6;;
+418;154;154;6;;1
+Pasenger : 142
+ Start: 344 End: 118
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+419;344;118;9;;
+420;118;118;9;;1
+Pasenger : 143
+ Start: 344 End: 111
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+421;344;111;9;;
+422;111;111;9;;1
+Pasenger : 144
+ Start: 344 End: 118
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+423;344;118;9;;
+424;118;118;9;;1
+Pasenger : 145
+ Start: 30 End: 125
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+425;30;27;; airsidebus;
+426;27;412;3;;
+427;412;411;; terminalbus;
+428;411;125;9;;
+429;125;125;9;;1
+Pasenger : 146
+ Start: 370 End: 193
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+430;370;193;4;;
+431;193;193;4;;1
+Pasenger : 147
+ Start: 344 End: 118
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+432;344;118;9;;
+433;118;118;9;;1
+Pasenger : 148
+ Start: 384 End: 128
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+434;384;128;9;;
+435;128;128;9;;1
+Pasenger : 149
+ Start: 60 End: 70
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+436;60;196;4;;
+437;196;196;4;;1
+438;196;70;; airsidebus;
+Pasenger : 150
+ Start: 209 End: 191
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+439;209;191;4;;
+440;191;191;4;;1
+Pasenger : 151
+ Start: 121 End: 92
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+441;121;411;9;;
+442;411;410;; terminalbus;
+443;410;92;8;;
+444;92;92;8;;1
+Pasenger : 152
+ Start: 121 End: 92
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+445;121;411;9;;
+446;411;410;; terminalbus;
+447;410;92;8;;
+448;92;92;8;;1
+Pasenger : 153
+ Start: 204 End: 92
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+449;204;413;4;;
+450;413;410;; terminalbus;
+451;410;92;8;;
+452;92;92;8;;1
+Pasenger : 154
+ Start: 204 End: 92
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+453;204;413;4;;
+454;413;410;; terminalbus;
+455;410;92;8;;
+456;92;92;8;;1
+Pasenger : 155
+ Start: 165 End: 95
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+457;165;415;6;;
+458;415;410;; terminalbus;
+459;410;95;8;;
+460;95;95;8;;1
+Pasenger : 156
+ Start: 209 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+461;209;60;4;;
+Pasenger : 157
+ Start: 165 End: 32
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+462;165;415;6;;
+463;415;412;; terminalbus;
+464;412;172;3;;
+465;172;172;3;;1
+466;172;32;; airsidebus;
+Pasenger : 158
+ Start: 165 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+467;165;415;6;;
+468;415;410;; terminalbus;
+469;410;87;8;;
+470;87;87;8;;1
+Pasenger : 159
+ Start: 165 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+471;165;415;6;;
+472;415;410;; terminalbus;
+473;410;87;8;;
+474;87;87;8;;1
+Pasenger : 160
+ Start: 165 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+475;165;415;6;;
+476;415;410;; terminalbus;
+477;410;87;8;;
+478;87;87;8;;1
+Pasenger : 161
+ Start: 165 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+479;165;415;6;;
+480;415;410;; terminalbus;
+481;410;87;8;;
+482;87;87;8;;1
+Pasenger : 162
+ Start: 165 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+483;165;415;6;;
+484;415;410;; terminalbus;
+485;410;87;8;;
+486;87;87;8;;1
+Pasenger : 163
+ Start: 165 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+487;165;415;6;;
+488;415;410;; terminalbus;
+489;410;87;8;;
+490;87;87;8;;1
+Pasenger : 164
+ Start: 165 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+491;165;415;6;;
+492;415;410;; terminalbus;
+493;410;87;8;;
+494;87;87;8;;1
+Pasenger : 165
+ Start: 165 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+495;165;415;6;;
+496;415;410;; terminalbus;
+497;410;87;8;;
+498;87;87;8;;1
+Pasenger : 166
+ Start: 365 End: 70
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+499;365;196;4;;
+500;196;196;4;;1
+501;196;70;; airsidebus;
+Pasenger : 167
+ Start: 366 End: 191
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+502;366;191;4;;
+503;191;191;4;;1
+Pasenger : 168
+ Start: 350 End: 153
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+504;350;153;6;;
+505;153;153;6;;1
+Pasenger : 169
+ Start: 118 End: 92
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+506;118;411;9;;
+507;411;410;; terminalbus;
+508;410;92;8;;
+509;92;92;8;;1
+Pasenger : 170
+ Start: 305 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+510;305;64;; airsidebus;
+511;64;60;9;;
+Pasenger : 171
+ Start: 118 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+512;118;60;9;;
+Pasenger : 172
+ Start: 310 End: 73
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+513;310;415;6;;
+514;415;410;; terminalbus;
+515;410;73;8;;
+516;73;73;8;;1
+Pasenger : 173
+ Start: 253 End: 180
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+517;253;64;; airsidebus;
+518;64;411;9;;
+519;411;412;; terminalbus;
+520;412;180;3;;
+521;180;180;3;;1
+Pasenger : 174
+ Start: 253 End: 86
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+522;253;64;; airsidebus;
+523;64;411;9;;
+524;411;410;; terminalbus;
+525;410;86;8;;
+526;86;86;8;;1
+Pasenger : 175
+ Start: 253 End: 140
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+527;253;64;; airsidebus;
+528;64;411;9;;
+529;411;415;; terminalbus;
+530;415;140;6;;
+531;140;140;6;;1
+Pasenger : 176
+ Start: 253 End: 140
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+532;253;64;; airsidebus;
+533;64;411;9;;
+534;411;415;; terminalbus;
+535;415;140;6;;
+536;140;140;6;;1
+Pasenger : 177
+ Start: 253 End: 140
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+537;253;64;; airsidebus;
+538;64;411;9;;
+539;411;415;; terminalbus;
+540;415;140;6;;
+541;140;140;6;;1
+Pasenger : 178
+ Start: 253 End: 140
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+542;253;64;; airsidebus;
+543;64;411;9;;
+544;411;415;; terminalbus;
+545;415;140;6;;
+546;140;140;6;;1
+Pasenger : 179
+ Start: 253 End: 92
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+547;253;64;; airsidebus;
+548;64;411;9;;
+549;411;410;; terminalbus;
+550;410;92;8;;
+551;92;92;8;;1
+Pasenger : 180
+ Start: 351 End: 150
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+552;351;150;6;;
+553;150;150;6;;1
+Pasenger : 181
+ Start: 369 End: 193
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+554;369;193;4;;
+555;193;193;4;;1
+Pasenger : 182
+ Start: 42 End: 229
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+556;42;64;; airsidebus;
+557;64;411;9;;
+558;411;414;; terminalbus;
+559;414;229;10;;
+560;229;229;10;;1
+Pasenger : 183
+ Start: 42 End: 36
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+561;42;64;; airsidebus;
+562;64;411;9;;
+563;411;408;; terminalbus;
+564;408;36;5;;
+565;36;36;5;;1
+Pasenger : 184
+ Start: 42 End: 175
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+566;42;64;; airsidebus;
+567;64;411;9;;
+568;411;412;; terminalbus;
+569;412;175;3;;
+570;175;175;3;;1
+Pasenger : 185
+ Start: 120 End: 86
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+571;120;415;6;;
+572;415;410;; terminalbus;
+573;410;86;8;;
+574;86;86;8;;1
+Pasenger : 186
+ Start: 120 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+575;120;60;6;;
+Pasenger : 187
+ Start: 268 End: 52
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+576;268;52;7;;
+577;52;52;7;;1
+Pasenger : 188
+ Start: 307 End: 82
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+578;307;415;6;;
+579;415;410;; terminalbus;
+580;410;88;8;;
+581;88;88;8;;1
+582;88;82;; airsidebus;
+Pasenger : 189
+ Start: 370 End: 70
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+583;370;196;4;;
+584;196;196;4;;1
+585;196;70;; airsidebus;
+Pasenger : 190
+ Start: 162 End: 191
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+586;162;412;3;;
+587;412;413;; terminalbus;
+588;413;191;4;;
+589;191;191;4;;1
+Pasenger : 191
+ Start: 212 End: 190
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+590;212;190;4;;
+591;190;190;4;;1
+Pasenger : 192
+ Start: 212 End: 175
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+592;212;413;4;;
+593;413;412;; terminalbus;
+594;412;175;3;;
+595;175;175;3;;1
+Pasenger : 193
+ Start: 211 End: 133
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+596;211;413;4;;
+597;413;411;; terminalbus;
+598;411;133;9;;
+599;133;133;9;;1
+Pasenger : 194
+ Start: 211 End: 16
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+600;211;413;4;;
+601;413;407;; terminalbus;
+602;407;16;2;;
+603;16;16;2;;1
+Pasenger : 195
+ Start: 211 End: 154
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+604;211;413;4;;
+605;413;415;; terminalbus;
+606;415;154;6;;
+607;154;154;6;;1
+Pasenger : 196
+ Start: 211 End: 133
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+608;211;413;4;;
+609;413;411;; terminalbus;
+610;411;133;9;;
+611;133;133;9;;1
+Pasenger : 197
+ Start: 211 End: 16
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+612;211;413;4;;
+613;413;407;; terminalbus;
+614;407;16;2;;
+615;16;16;2;;1
+Pasenger : 198
+ Start: 211 End: 16
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+616;211;413;4;;
+617;413;407;; terminalbus;
+618;407;16;2;;
+619;16;16;2;;1
+Pasenger : 199
+ Start: 211 End: 249
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+620;211;198;4;;
+621;198;198;4;;1
+622;198;249;; airsidebus;
+Pasenger : 200
+ Start: 211 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+623;211;60;4;;
+Pasenger : 201
+ Start: 211 End: 249
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+624;211;198;4;;
+625;198;198;4;;1
+626;198;249;; airsidebus;
+Pasenger : 202
+ Start: 212 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+627;212;60;4;;
+Pasenger : 203
+ Start: 162 End: 384
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+628;162;384;3;;
+Pasenger : 204
+ Start: 211 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+629;211;60;4;;
+Pasenger : 205
+ Start: 162 End: 128
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+630;162;412;3;;
+631;412;411;; terminalbus;
+632;411;128;9;;
+633;128;128;9;;1
+Pasenger : 206
+ Start: 162 End: 128
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+634;162;412;3;;
+635;412;411;; terminalbus;
+636;411;128;9;;
+637;128;128;9;;1
+Pasenger : 207
+ Start: 211 End: 124
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+638;211;413;4;;
+639;413;411;; terminalbus;
+640;411;124;9;;
+641;124;124;9;;1
+Pasenger : 208
+ Start: 212 End: 178
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+642;212;413;4;;
+643;413;412;; terminalbus;
+644;412;178;3;;
+645;178;178;3;;1
+Pasenger : 209
+ Start: 212 End: 204
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+646;212;204;4;;
+647;204;204;4;;1
+Pasenger : 210
+ Start: 350 End: 154
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+648;350;154;6;;
+649;154;154;6;;1
+Pasenger : 211
+ Start: 200 End: 90
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+650;200;413;4;;
+651;413;410;; terminalbus;
+652;410;90;8;;
+653;90;90;8;;1
+Pasenger : 212
+ Start: 200 End: 133
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+654;200;413;4;;
+655;413;411;; terminalbus;
+656;411;133;9;;
+657;133;133;9;;1
+Pasenger : 213
+ Start: 110 End: 128
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+658;110;415;6;;
+659;415;411;; terminalbus;
+660;411;128;9;;
+661;128;128;9;;1
+Pasenger : 214
+ Start: 110 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+662;110;60;6;;
+Pasenger : 215
+ Start: 103 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+663;103;60;6;;
+Pasenger : 216
+ Start: 103 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+664;103;60;6;;
+Pasenger : 217
+ Start: 103 End: 128
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+665;103;415;6;;
+666;415;411;; terminalbus;
+667;411;128;9;;
+668;128;128;9;;1
+Pasenger : 218
+ Start: 74 End: 248
+Segments: 6
+ID;Start location; End location; Terminal; Bus;Embarkment
+669;74;27;; airsidebus;
+670;27;412;3;;
+671;412;409;; terminalbus;
+672;409;53;7;;
+673;53;53;7;;1
+674;53;248;; airsidebus;
+Pasenger : 219
+ Start: 346 End: 141
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+675;346;141;6;;
+676;141;141;6;;1
+Pasenger : 221
+ Start: 104 End: 133
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+677;104;415;6;;
+678;415;411;; terminalbus;
+679;411;133;9;;
+680;133;133;9;;1
+Pasenger : 222
+ Start: 174 End: 197
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+681;174;412;3;;
+682;412;413;; terminalbus;
+683;413;197;4;;
+684;197;197;4;;1
+Pasenger : 223
+ Start: 159 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+685;159;60;3;;
+Pasenger : 224
+ Start: 280 End: 89
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+686;280;414;10;;
+687;414;410;; terminalbus;
+688;410;89;8;;
+689;89;89;8;;1
+Pasenger : 225
+ Start: 339 End: 175
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+690;339;175;3;;
+691;175;175;3;;1
+Pasenger : 228
+ Start: 170 End: 118
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+696;170;412;3;;
+697;412;411;; terminalbus;
+698;411;118;9;;
+699;118;118;9;;1
+Pasenger : 229
+ Start: 105 End: 128
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+700;105;415;6;;
+701;415;411;; terminalbus;
+702;411;128;9;;
+703;128;128;9;;1
+Pasenger : 230
+ Start: 170 End: 255
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+704;170;412;3;;
+705;412;413;; terminalbus;
+706;413;188;4;;
+707;188;188;4;;1
+708;188;255;; airsidebus;
+Pasenger : 231
+ Start: 105 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+709;105;60;6;;
+Pasenger : 232
+ Start: 339 End: 211
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+710;339;211;4;;
+711;211;211;4;;1
+Pasenger : 233
+ Start: 31 End: 118
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+712;31;27;; airsidebus;
+713;27;412;3;;
+714;412;411;; terminalbus;
+715;411;118;9;;
+716;118;118;9;;1
+Pasenger : 234
+ Start: 296 End: 118
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+717;296;414;10;;
+718;414;411;; terminalbus;
+719;411;118;9;;
+720;118;118;9;;1
+Pasenger : 235
+ Start: 296 End: 118
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+721;296;414;10;;
+722;414;411;; terminalbus;
+723;411;118;9;;
+724;118;118;9;;1
+Pasenger : 236
+ Start: 170 End: 249
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+725;170;412;3;;
+726;412;413;; terminalbus;
+727;413;198;4;;
+728;198;198;4;;1
+729;198;249;; airsidebus;
+Pasenger : 237
+ Start: 180 End: 249
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+730;180;412;3;;
+731;412;413;; terminalbus;
+732;413;198;4;;
+733;198;198;4;;1
+734;198;249;; airsidebus;
+Pasenger : 238
+ Start: 180 End: 249
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+735;180;412;3;;
+736;412;413;; terminalbus;
+737;413;198;4;;
+738;198;198;4;;1
+739;198;249;; airsidebus;
+Pasenger : 239
+ Start: 180 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+740;180;60;3;;
+Pasenger : 240
+ Start: 339 End: 211
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+741;339;211;4;;
+742;211;211;4;;1
+Pasenger : 241
+ Start: 345 End: 106
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+743;345;106;9;;
+744;106;106;9;;1
+Pasenger : 242
+ Start: 182 End: 125
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+745;182;412;3;;
+746;412;411;; terminalbus;
+747;411;125;9;;
+748;125;125;9;;1
+Pasenger : 243
+ Start: 348 End: 154
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+749;348;154;6;;
+750;154;154;6;;1
+Pasenger : 244
+ Start: 340 End: 125
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+751;340;125;9;;
+752;125;125;9;;1
+Pasenger : 245
+ Start: 158 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+753;158;60;6;;
+Pasenger : 246
+ Start: 182 End: 92
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+754;182;412;3;;
+755;412;410;; terminalbus;
+756;410;92;8;;
+757;92;92;8;;1
+Pasenger : 247
+ Start: 112 End: 98
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+758;112;411;9;;
+759;411;410;; terminalbus;
+760;410;98;8;;
+761;98;98;8;;1
+Pasenger : 248
+ Start: 348 End: 121
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+762;348;121;9;;
+763;121;121;9;;1
+Pasenger : 249
+ Start: 366 End: 125
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+764;366;125;9;;
+765;125;125;9;;1
+Pasenger : 250
+ Start: 367 End: 197
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+766;367;197;4;;
+767;197;197;4;;1
+Pasenger : 251
+ Start: 367 End: 192
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+768;367;192;4;;
+769;192;192;4;;1
+Pasenger : 252
+ Start: 346 End: 112
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+770;346;112;9;;
+771;112;112;9;;1
+Pasenger : 255
+ Start: 79 End: 152
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+777;79;27;; airsidebus;
+778;27;412;3;;
+779;412;415;; terminalbus;
+780;415;152;6;;
+781;152;152;6;;1
+Pasenger : 256
+ Start: 340 End: 121
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+782;340;121;9;;
+783;121;121;9;;1
+Pasenger : 257
+ Start: 159 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+784;159;60;3;;
+Pasenger : 258
+ Start: 226 End: 178
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+785;226;64;; airsidebus;
+786;64;411;9;;
+787;411;412;; terminalbus;
+788;412;178;3;;
+789;178;178;3;;1
+Pasenger : 259
+ Start: 226 End: 178
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+790;226;64;; airsidebus;
+791;64;411;9;;
+792;411;412;; terminalbus;
+793;412;178;3;;
+794;178;178;3;;1
+Pasenger : 260
+ Start: 226 End: 178
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+795;226;64;; airsidebus;
+796;64;411;9;;
+797;411;412;; terminalbus;
+798;412;178;3;;
+799;178;178;3;;1
+Pasenger : 261
+ Start: 226 End: 178
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+800;226;64;; airsidebus;
+801;64;411;9;;
+802;411;412;; terminalbus;
+803;412;178;3;;
+804;178;178;3;;1
+Pasenger : 262
+ Start: 226 End: 175
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+805;226;64;; airsidebus;
+806;64;411;9;;
+807;411;412;; terminalbus;
+808;412;175;3;;
+809;175;175;3;;1
+Pasenger : 263
+ Start: 111 End: 176
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+810;111;411;9;;
+811;411;412;; terminalbus;
+812;412;176;3;;
+813;176;176;3;;1
+Pasenger : 264
+ Start: 111 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+814;111;60;9;;
+Pasenger : 265
+ Start: 111 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+815;111;60;9;;
+Pasenger : 266
+ Start: 111 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+816;111;60;9;;
+Pasenger : 267
+ Start: 111 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+817;111;60;9;;
+Pasenger : 268
+ Start: 111 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+818;111;60;9;;
+Pasenger : 269
+ Start: 111 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+819;111;411;9;;
+820;411;410;; terminalbus;
+821;410;87;8;;
+822;87;87;8;;1
+Pasenger : 270
+ Start: 372 End: 204
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+823;372;204;4;;
+824;204;204;4;;1
+Pasenger : 271
+ Start: 339 End: 229
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+825;339;229;10;;
+826;229;229;10;;1
+Pasenger : 272
+ Start: 207 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+827;207;60;4;;
+Pasenger : 273
+ Start: 207 End: 177
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+828;207;413;4;;
+829;413;412;; terminalbus;
+830;412;177;3;;
+831;177;177;3;;1
+Pasenger : 274
+ Start: 207 End: 111
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+832;207;413;4;;
+833;413;411;; terminalbus;
+834;411;111;9;;
+835;111;111;9;;1
+Pasenger : 275
+ Start: 312 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+836;312;112;; airsidebus;
+837;112;60;9;;
+Pasenger : 276
+ Start: 180 End: 175
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+838;180;175;3;;
+839;175;175;3;;1
+Pasenger : 277
+ Start: 170 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+840;170;60;3;;
+Pasenger : 278
+ Start: 170 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+841;170;60;3;;
+Pasenger : 279
+ Start: 170 End: 139
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+842;170;412;3;;
+843;412;415;; terminalbus;
+844;415;139;6;;
+845;139;139;6;;1
+Pasenger : 280
+ Start: 302 End: 174
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+846;302;415;6;;
+847;415;412;; terminalbus;
+848;412;174;3;;
+849;174;174;3;;1
+Pasenger : 281
+ Start: 302 End: 174
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+850;302;415;6;;
+851;415;412;; terminalbus;
+852;412;174;3;;
+853;174;174;3;;1
+Pasenger : 282
+ Start: 302 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+854;302;60;6;;
+Pasenger : 283
+ Start: 302 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+855;302;60;6;;
+Pasenger : 284
+ Start: 353 End: 133
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+856;353;133;9;;
+857;133;133;9;;1
+Pasenger : 285
+ Start: 60 End: 178
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+858;60;178;3;;
+859;178;178;3;;1
+Pasenger : 286
+ Start: 212 End: 229
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+860;212;413;4;;
+861;413;414;; terminalbus;
+862;414;229;10;;
+863;229;229;10;;1
+Pasenger : 287
+ Start: 114 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+864;114;60;9;;
+Pasenger : 288
+ Start: 174 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+865;174;60;3;;
+Pasenger : 289
+ Start: 174 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+866;174;60;3;;
+Pasenger : 290
+ Start: 174 End: 16
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+867;174;412;3;;
+868;412;407;; terminalbus;
+869;407;16;2;;
+870;16;16;2;;1
+Pasenger : 291
+ Start: 182 End: 180
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+871;182;180;3;;
+872;180;180;3;;1
+Pasenger : 292
+ Start: 107 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+873;107;60;6;;
+Pasenger : 293
+ Start: 107 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+874;107;60;6;;
+Pasenger : 294
+ Start: 288 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+875;288;60;10;;
+Pasenger : 296
+ Start: 350 End: 125
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+878;350;125;9;;
+879;125;125;9;;1
+Pasenger : 297
+ Start: 200 End: 195
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+880;200;195;4;;
+881;195;195;4;;1
+Pasenger : 298
+ Start: 369 End: 253
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+882;369;188;4;;
+883;188;188;4;;1
+884;188;253;; airsidebus;
+Pasenger : 299
+ Start: 71 End: 155
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+885;71;27;; airsidebus;
+886;27;412;3;;
+887;412;415;; terminalbus;
+888;415;155;6;;
+889;155;155;6;;1
+Pasenger : 300
+ Start: 166 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+890;166;60;3;;
+Pasenger : 301
+ Start: 371 End: 253
+Segments: 3
+ID;Start location; End location; Terminal; Bus;Embarkment
+891;371;188;4;;
+892;188;188;4;;1
+893;188;253;; airsidebus;
+Pasenger : 302
+ Start: 178 End: 87
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+894;178;412;3;;
+895;412;410;; terminalbus;
+896;410;87;8;;
+897;87;87;8;;1
+Pasenger : 303
+ Start: 295 End: 88
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+898;295;414;10;;
+899;414;410;; terminalbus;
+900;410;88;8;;
+901;88;88;8;;1
+Pasenger : 304
+ Start: 362 End: 178
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+902;362;178;3;;
+903;178;178;3;;1
+Pasenger : 305
+ Start: 278 End: 99
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+904;278;414;10;;
+905;414;410;; terminalbus;
+906;410;99;8;;
+907;99;99;8;;1
+Pasenger : 306
+ Start: 201 End: 151
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+908;201;413;4;;
+909;413;415;; terminalbus;
+910;415;151;6;;
+911;151;151;6;;1
+Pasenger : 307
+ Start: 105 End: 151
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+912;105;151;6;;
+913;151;151;6;;1
+Pasenger : 308
+ Start: 351 End: 122
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+914;351;122;9;;
+915;122;122;9;;1
+Pasenger : 309
+ Start: 159 End: 122
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+916;159;412;3;;
+917;412;411;; terminalbus;
+918;411;122;9;;
+919;122;122;9;;1
+Pasenger : 310
+ Start: 70 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+920;70;27;; airsidebus;
+921;27;60;3;;
+Pasenger : 311
+ Start: 201 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+922;201;60;4;;
+Pasenger : 312
+ Start: 201 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+923;201;60;4;;
+Pasenger : 313
+ Start: 201 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+924;201;60;4;;
+Pasenger : 317
+ Start: 362 End: 178
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+931;362;178;3;;
+932;178;178;3;;1
+Pasenger : 318
+ Start: 110 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+933;110;60;6;;
+Pasenger : 319
+ Start: 110 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+934;110;60;6;;
+Pasenger : 320
+ Start: 110 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+935;110;60;6;;
+Pasenger : 321
+ Start: 110 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+936;110;60;6;;
+Pasenger : 322
+ Start: 110 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+937;110;60;6;;
+Pasenger : 323
+ Start: 110 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+938;110;60;6;;
+Pasenger : 324
+ Start: 362 End: 178
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+939;362;178;3;;
+940;178;178;3;;1
+Pasenger : 325
+ Start: 347 End: 139
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+941;347;139;6;;
+942;139;139;6;;1
+Pasenger : 327
+ Start: 164 End: 238
+Segments: 5
+ID;Start location; End location; Terminal; Bus;Embarkment
+943;164;412;3;;
+944;412;415;; terminalbus;
+945;415;113;6;;
+946;113;113;6;;1
+947;113;238;; airsidebus;
+Pasenger : 328
+ Start: 164 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+948;164;60;3;;
+Pasenger : 329
+ Start: 164 End: 199
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+949;164;412;3;;
+950;412;413;; terminalbus;
+951;413;199;4;;
+952;199;199;4;;1
+Pasenger : 330
+ Start: 370 End: 190
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+953;370;190;4;;
+954;190;190;4;;1
+Pasenger : 331
+ Start: 111 End: 86
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+955;111;411;9;;
+956;411;410;; terminalbus;
+957;410;86;8;;
+958;86;86;8;;1
+Pasenger : 332
+ Start: 111 End: 176
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+959;111;411;9;;
+960;411;412;; terminalbus;
+961;412;176;3;;
+962;176;176;3;;1
+Pasenger : 333
+ Start: 207 End: 99
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+963;207;413;4;;
+964;413;410;; terminalbus;
+965;410;99;8;;
+966;99;99;8;;1
+Pasenger : 334
+ Start: 159 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+967;159;60;3;;
+Pasenger : 335
+ Start: 159 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+968;159;60;3;;
+Pasenger : 336
+ Start: 159 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+969;159;60;3;;
+Pasenger : 337
+ Start: 207 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+970;207;60;4;;
+Pasenger : 338
+ Start: 207 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+971;207;60;4;;
+Pasenger : 339
+ Start: 207 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+972;207;60;4;;
+Pasenger : 340
+ Start: 303 End: 179
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+973;303;415;6;;
+974;415;412;; terminalbus;
+975;412;179;3;;
+976;179;179;3;;1
+Pasenger : 341
+ Start: 170 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+977;170;60;3;;
+Pasenger : 342
+ Start: 303 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+978;303;60;6;;
+Pasenger : 343
+ Start: 201 End: 129
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+979;201;413;4;;
+980;413;411;; terminalbus;
+981;411;129;9;;
+982;129;129;9;;1
+Pasenger : 344
+ Start: 284 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+983;284;60;10;;
+Pasenger : 345
+ Start: 201 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+984;201;60;4;;
+Pasenger : 346
+ Start: 284 End: 175
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+985;284;414;10;;
+986;414;412;; terminalbus;
+987;412;175;3;;
+988;175;175;3;;1
+Pasenger : 348
+ Start: 277 End: 123
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+989;277;414;10;;
+990;414;411;; terminalbus;
+991;411;123;9;;
+992;123;123;9;;1
+Pasenger : 349
+ Start: 158 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+993;158;60;6;;
+Pasenger : 350
+ Start: 158 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+994;158;60;6;;
+Pasenger : 351
+ Start: 211 End: 177
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+995;211;413;4;;
+996;413;412;; terminalbus;
+997;412;177;3;;
+998;177;177;3;;1
+Pasenger : 353
+ Start: 363 End: 162
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1003;363;162;3;;
+1004;162;162;3;;1
+Pasenger : 354
+ Start: 168 End: 141
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1005;168;412;3;;
+1006;412;415;; terminalbus;
+1007;415;141;6;;
+1008;141;141;6;;1
+Pasenger : 355
+ Start: 168 End: 89
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1009;168;412;3;;
+1010;412;410;; terminalbus;
+1011;410;89;8;;
+1012;89;89;8;;1
+Pasenger : 356
+ Start: 168 End: 89
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1013;168;412;3;;
+1014;412;410;; terminalbus;
+1015;410;89;8;;
+1016;89;89;8;;1
+Pasenger : 357
+ Start: 168 End: 89
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1017;168;412;3;;
+1018;412;410;; terminalbus;
+1019;410;89;8;;
+1020;89;89;8;;1
+Pasenger : 358
+ Start: 168 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1021;168;60;3;;
+Pasenger : 360
+ Start: 202 End: 199
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1022;202;199;4;;
+1023;199;199;4;;1
+Pasenger : 361
+ Start: 202 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1024;202;60;4;;
+Pasenger : 362
+ Start: 166 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1025;166;60;3;;
+Pasenger : 363
+ Start: 166 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1026;166;60;3;;
+Pasenger : 364
+ Start: 31 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1027;31;27;; airsidebus;
+1028;27;60;3;;
+Pasenger : 365
+ Start: 117 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1029;117;60;6;;
+Pasenger : 366
+ Start: 358 End: 175
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1030;358;175;3;;
+1031;175;175;3;;1
+Pasenger : 367
+ Start: 121 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1032;121;60;9;;
+Pasenger : 368
+ Start: 121 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1033;121;60;9;;
+Pasenger : 369
+ Start: 159 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1034;159;60;3;;
+Pasenger : 370
+ Start: 205 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1035;205;60;4;;
+Pasenger : 371
+ Start: 205 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1036;205;60;4;;
+Pasenger : 372
+ Start: 120 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1037;120;60;6;;
+Pasenger : 373
+ Start: 261 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1038;261;27;; airsidebus;
+1039;27;60;3;;
+Pasenger : 374
+ Start: 261 End: 60
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1040;261;27;; airsidebus;
+1041;27;60;3;;
+Pasenger : 375
+ Start: 178 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1042;178;60;3;;
+Pasenger : 378
+ Start: 201 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1049;201;60;4;;
+Pasenger : 379
+ Start: 118 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1050;118;60;9;;
+Pasenger : 380
+ Start: 118 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1051;118;60;9;;
+Pasenger : 381
+ Start: 118 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1052;118;60;9;;
+Pasenger : 382
+ Start: 118 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1053;118;60;9;;
+Pasenger : 383
+ Start: 118 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1054;118;60;9;;
+Pasenger : 384
+ Start: 131 End: 130
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1055;131;130;9;;
+1056;130;130;9;;1
+Pasenger : 385
+ Start: 160 End: 122
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1057;160;412;3;;
+1058;412;411;; terminalbus;
+1059;411;122;9;;
+1060;122;122;9;;1
+Pasenger : 386
+ Start: 160 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1061;160;60;3;;
+Pasenger : 387
+ Start: 160 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1062;160;60;3;;
+Pasenger : 388
+ Start: 160 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1063;160;60;3;;
+Pasenger : 389
+ Start: 160 End: 155
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1064;160;412;3;;
+1065;412;415;; terminalbus;
+1066;415;155;6;;
+1067;155;155;6;;1
+Pasenger : 390
+ Start: 160 End: 155
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1068;160;412;3;;
+1069;412;415;; terminalbus;
+1070;415;155;6;;
+1071;155;155;6;;1
+Pasenger : 391
+ Start: 160 End: 132
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1072;160;412;3;;
+1073;412;411;; terminalbus;
+1074;411;132;9;;
+1075;132;132;9;;1
+Pasenger : 392
+ Start: 202 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1076;202;60;4;;
+Pasenger : 393
+ Start: 202 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1077;202;60;4;;
+Pasenger : 394
+ Start: 106 End: 155
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1078;106;411;9;;
+1079;411;415;; terminalbus;
+1080;415;155;6;;
+1081;155;155;6;;1
+Pasenger : 395
+ Start: 106 End: 129
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1082;106;129;9;;
+1083;129;129;9;;1
+Pasenger : 398
+ Start: 340 End: 126
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1086;340;126;9;;
+1087;126;126;9;;1
+Pasenger : 400
+ Start: 159 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1088;159;60;3;;
+Pasenger : 401
+ Start: 116 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1089;116;60;9;;
+Pasenger : 402
+ Start: 174 End: 149
+Segments: 4
+ID;Start location; End location; Terminal; Bus;Embarkment
+1090;174;412;3;;
+1091;412;415;; terminalbus;
+1092;415;149;6;;
+1093;149;149;6;;1
+Pasenger : 403
+ Start: 123 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1094;123;60;9;;
+Pasenger : 404
+ Start: 348 End: 142
+Segments: 2
+ID;Start location; End location; Terminal; Bus;Embarkment
+1095;348;142;6;;
+1096;142;142;6;;1
+Pasenger : 405
+ Start: 205 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1097;205;60;4;;
+Pasenger : 406
+ Start: 160 End: 60
+Segments: 1
+ID;Start location; End location; Terminal; Bus;Embarkment
+1098;160;60;3;;
+
